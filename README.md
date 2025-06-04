@@ -1,2 +1,2 @@
 # CS_PHY_sem6
-Here, multiple "Python Code" are presented for solving different "Physics problems".
+Here, I have presented some "Python Codes" that is used mainly in solving "Physics Problems".
