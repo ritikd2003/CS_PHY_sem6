@@ -6,4 +6,5 @@ Here, I have presented some "Python Codes" that is mainly used in solving "Physi
 3. solving ODEs --> {Euler, Mid point, RK4, verlet, velocity verlet, leapfrog. }
 4. BVP (Boundary value problems) -->  { [shooting method] in solution01, [Crank–Nicolson Method & Thomas Algorithm] in solution02. }
 5. TDSE (time dependent schrodinger equation) --> {Strang splitting approximation, FFT and Inverse FFT used. }
-6. 
+6. random number --> {random walk, Buffon’s needle problem, etc}
+7. 
