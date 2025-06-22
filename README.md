@@ -5,4 +5,5 @@ Here, I have presented some "Python Codes" that is mainly used in solving "Physi
 2. Numerical diff & integral --> { Forward difference, Backward difference, Central difference, Five-point approximation, linear curve fitting, Trapezoidal method, simson 1/3 method, simpson 3/8 method, bode's method }
 3. solving ODEs --> {Euler, Mid point, RK4, verlet, velocity verlet, leapfrog. }
 4. BVP (Boundary value problems) -->  { [shooting method] in solution01, [Crank–Nicolson Method & Thomas Algorithm] in solution02. }
-5. 
+5. TDSE (time dependent schrodinger equation) --> {Strang splitting approximation, FFT and Inverse FFT used. }
+6. 
