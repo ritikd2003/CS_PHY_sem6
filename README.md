@@ -46,7 +46,7 @@ Techniques to solve second-order differential equations with boundary conditions
 
 ---
 
-### 🔬 5. Time-Dependent Schrödinger Equation (TDSE)
+### 5. Time-Dependent Schrödinger Equation (TDSE)
 Numerical approach for solving the 1D TDSE using:
 - **Strang Splitting Approximation** + **Fast Fourier Transform (FFT) & Inverse FFT**
 
@@ -60,7 +60,7 @@ Exploratory simulations using pseudo-randomness:
 
 ---
 
-### 📊 7. Monte Carlo Techniques
+### 7. Monte Carlo Techniques
 Sampling-based numerical integration and probabilistic modeling:
 - **Monte Carlo Integration**
 - **Importance Sampling**
