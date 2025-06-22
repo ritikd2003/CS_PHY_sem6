@@ -66,3 +66,7 @@ Sampling-based numerical integration and probabilistic modeling:
 - **Importance Sampling**
 - **Metropolis Algorithm**
 
+---
+
+### Notes
+- `adaptive_time_stepping` is **not yet implemented**, but the **problem and reference material** are included for future completion.
